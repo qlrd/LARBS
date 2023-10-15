@@ -75,7 +75,7 @@ A,mutt-wizard-git,"is a light-weight terminal-based email system."
 ,libreoffice-still,"is the stable maintenance branch with relatively rare updates, for conservative users."
 ,screencast,"is a command line interface to record a X11 desktop."
 ,vlc,"is a media player."
-A,gossip-bin,"is a nostr client build with rust.",
+A,gossip-bin,"is a nostr client build with rust."
 A,session-desktop,"is ao nion routing based messenger Session integrates directly with Oxen Service Nodes."
 ,signal-desktop,"is a private messenger for Linux."
 ,virtualbox,"is a Powerful x86 virtualization for enterprise as well as home use."
